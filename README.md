@@ -1,2 +1,47 @@
-# SMARTPHONE-SALES-AND-RATING-TRACKER-DASHBOARD
-This project features an interactive Power BI dashboard designed to analyze the market performance of four leading smartphone brands: Oneplus, Samsung, Apple, and Xiaomi. By integrating sales revenue, pricing tiers, and customer feedback, the platform provides a holistic view of competitive market dynamics.
+# Smartphone Sales & Rating Tracker Dashboard
+
+## 📊 Project Overview
+
+* Competitor benchmarking for Oneplus, Samsung, Apple, and Xiaomi
+* Analysis of transactional sales volume and market revenue distribution
+* Customer satisfaction tracking through dynamic rating matrices
+* Market pricing tier segmentation analysis
+
+## 🚀 Key Features & Visualizations
+
+* Total Revenue & Volume KPI
+* Average Pricing Metric KPI
+* Competitor Brand Tracking Counter
+* Consumer Rating Scale KPI
+* Sales Volume by Brand Analysis
+* Pricing Structures Comparison
+* Rating Points Distribution 
+* Price Category Market Segmentation
+* Interactive Brand Slicers
+
+## 🛠️ Tools Used
+
+* Power BI
+* Power Query
+* DAX
+* Data Modeling
+* Dashboard Design
+
+## 📝 Key Business Insights
+
+* Budget tier sales domination tracking
+* Competitor rating share and parity monitoring
+* Brand volume leadership comparisons
+* Pricing strategy performance evaluation
+* Interactive business data reporting
+
+## 📁 Files Included
+
+* Power BI Dashboard File (.pbix)
+* Unpacked Project Architecture Files (.pbip / .pbit schema data)
+* Dashboard Screenshot Image
+* README Documentation
+
+## 🔗 Project Link
+
+[PASTE GITHUB LINK HERE]
