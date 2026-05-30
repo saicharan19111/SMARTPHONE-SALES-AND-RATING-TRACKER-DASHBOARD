@@ -44,4 +44,4 @@
 
 ## 🔗 Project Link
 
-[PASTE GITHUB LINK HERE]
+(https://github.com/saicharan19111/SMARTPHONE-SALES-AND-RATING-TRACKER-DASHBOARD.git)
